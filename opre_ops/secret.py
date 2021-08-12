@@ -13,6 +13,7 @@ def generate_random_string(length):
 
     return output
 
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser("Generate a secret key/password.  The string will include digits, letters, "
                                      "and punctuation, and has a default length of 50.")
