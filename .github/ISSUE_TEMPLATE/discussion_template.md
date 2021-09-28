@@ -12,6 +12,8 @@ _Topic of the discussion_
 
 ### Questions we want to answer
 - [ ] _Question, along with who is asking it_ 
+- [ ] _Question, along with who is asking it_ 
+- [ ] _Question, along with who is asking it_ 
 
 ### When
 
